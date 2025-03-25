@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-inline: auto;
+    background-color: rgb(142, 236, 142);
+    border-radius: 10px;
+    width: 500px;
+    padding: 30px 5px 50px;
+}
+
+.btn-submit {
+    background-color: rgb(255 255 95);
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    width: 60px;
+    cursor: pointer;
+}
+
+.btn-submit:hover {
+    background-color: yellow;
+}

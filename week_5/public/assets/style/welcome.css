@@ -1,0 +1,13 @@
+.container {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: yellow;
+}
+
+.title {
+    text-align: center;
+    padding-top: 25%;
+    color: red;
+}
